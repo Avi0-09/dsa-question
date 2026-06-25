@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Avi0-09/dsa-question/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Avi0-09/dsa-question/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Avi0-09/dsa-question/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
