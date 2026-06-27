@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avi0-09/dsa-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Avi0-09/dsa-question/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avi0-09/dsa-question/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Avi0-09/dsa-question/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avi0-09/dsa-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0896-monotonic-array](https://github.com/Avi0-09/dsa-question/tree/master/0896-monotonic-array) |
 ## Bit Manipulation
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avi0-09/dsa-question/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avi0-09/dsa-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
