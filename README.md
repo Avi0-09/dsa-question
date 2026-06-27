@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Avi0-09/dsa-question/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Avi0-09/dsa-question/tree/master/0136-single-number) |
 | [0896-monotonic-array](https://github.com/Avi0-09/dsa-question/tree/master/0896-monotonic-array) |
 ## Bit Manipulation
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Avi0-09/dsa-question/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avi0-09/dsa-question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Avi0-09/dsa-question/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
