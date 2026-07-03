@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avi0-09/dsa-question/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Avi0-09/dsa-question/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avi0-09/dsa-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Avi0-09/dsa-question/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Avi0-09/dsa-question/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Avi0-09/dsa-question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avi0-09/dsa-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Avi0-09/dsa-question/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Avi0-09/dsa-question/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Avi0-09/dsa-question/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avi0-09/dsa-question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Avi0-09/dsa-question/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Avi0-09/dsa-question/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
