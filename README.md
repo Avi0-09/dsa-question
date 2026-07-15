@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Avi0-09/dsa-question/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Avi0-09/dsa-question/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Avi0-09/dsa-question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Avi0-09/dsa-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Avi0-09/dsa-question/tree/master/0867-transpose-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Avi0-09/dsa-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
